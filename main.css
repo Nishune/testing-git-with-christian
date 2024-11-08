@@ -1,8 +1,4 @@
-body {
-  background-color: black;
-}
-
-/* html,
+html,
 body {
   height: 100%;
   margin: 0;
@@ -10,7 +6,7 @@ body {
   overflow: hidden;
 
   body {
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background: linear-gradient(-45deg, #0a0401, #100308, #04141a, #062222);
     background-size: 400% 400%;
     animation: gradientAnimation 15s ease infinite;
     text-align: center;
@@ -37,4 +33,3 @@ body {
     font-size: 50px;
   }
 }
- */

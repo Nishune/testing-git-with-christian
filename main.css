@@ -9,7 +9,7 @@ body {
     background: red;
     background-size: 400% 400%;
     animation: gradientAnimation 15s ease infinite;
-    text-align: center;
+    text-align: left;
   }
 
   @keyframes gradientAnimation {
